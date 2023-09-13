@@ -70,7 +70,7 @@ function ssGo() {
 
     let website = [
         "runningcheese.com",
-        "www.appinn.com"
+        "iplaysoft.com"
     ];
 
     website.forEach(function (element) {
