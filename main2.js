@@ -69,7 +69,8 @@ function ssGo() {
     //     `正在搜索，请稍等......`;
 
     let website = [
-        "runningcheese.com"
+        "runningcheese.com",
+        "www.appinn.com"
     ];
 
     website.forEach(function (element) {
